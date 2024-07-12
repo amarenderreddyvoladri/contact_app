@@ -215,7 +215,7 @@ public class ContactDaoImpl implements ContactDao {
 			// TODO Auto-generated catch block.
 			e.printStackTrace();
 		}
-		
+
 		return status;
 	}
 
