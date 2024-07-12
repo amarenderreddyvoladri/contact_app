@@ -6,7 +6,7 @@ import java.util.Scanner;
 import com.edubridge.contact_app.dao.ContactDao;
 import com.edubridge.contact_app.dao.ContactDaoImpl;
 import com.edubridge.contact_app.model.Contact;
-
+ 
 /**
  * Contact Application module.
  * 
