@@ -12,7 +12,7 @@ import com.edubridge.contact_app.model.Contact;
  * 
  * unable to close Scanner class. System.exit(0) is successfully implemented.
  * 
- * DELETE cases are yet to complete.
+ * All Operations implemented Successfully.
  *
  */
 public class App {
