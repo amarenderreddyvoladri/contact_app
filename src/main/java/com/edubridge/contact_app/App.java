@@ -23,7 +23,7 @@ public class App {
 		while (true) {
 			System.out.println("\nMY  CONTACT APP");
 			System.out.println("----------------");
-			System.out.println("1. ADD CONTACT");
+			System.out.println("1. ADD CONTACT"); 
 			System.out.println("2. VIEW CONTACT");
 			System.out.println("3. SEARCH CONTACT(using Id)");
 			System.out.println("4. GET CONTACT(using Name)");
